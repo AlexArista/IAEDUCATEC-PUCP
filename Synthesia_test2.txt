@@ -1,0 +1,24 @@
+Synthesia IA es una nueva versión de Synthesia que utiliza inteligencia artificial para mejorar la experiencia de aprendizaje. El programa utiliza un modelo de aprendizaje automático para generar una visualización de las notas que se están tocando en tiempo real, así como una versión sintética del sonido del piano.
+Cómo funciona Synthesia IA
+Synthesia IA utiliza un modelo de aprendizaje automático llamado DeepMind Magenta. Este modelo funciona aprendiendo patrones en los vídeos de personas tocando el piano, así como en las grabaciones de audio de piano.
+Cuando un usuario toca una nota en el piano, el modelo genera una visualización de la nota que se está tocando. La visualización se muestra en la pantalla del ordenador o del dispositivo móvil del usuario. El modelo también genera una versión sintética del sonido del piano, que se reproduce a través de los altavoces del ordenador o del dispositivo móvil del usuario.
+Pasos para usar Synthesia IA
+Para usar Synthesia IA, los usuarios deben primero instalar el programa en su ordenador o dispositivo móvil. Una vez instalado, los usuarios pueden seguir estos pasos para comenzar a aprender a tocar el piano:
+Elegir una canción. Synthesia IA tiene una biblioteca de canciones que los usuarios pueden aprender a tocar.
+Seleccionar un nivel de dificultad. Synthesia IA tiene diferentes niveles de dificultad para adaptarse a los diferentes niveles de habilidad de los usuarios.
+Comenzar a tocar. Synthesia IA generará una visualización de las notas que se están tocando en tiempo real, así como una versión sintética del sonido del piano.
+Beneficios de Synthesia IA
+Synthesia IA tiene una serie de beneficios, entre los que se incluyen:
+Es un método más divertido y eficaz para aprender a tocar el piano.
+Es más accesible para personas de todos los niveles de habilidad.
+Es más personalizable para adaptarse a las necesidades individuales del usuario.
+Desventajas de Synthesia IA
+Synthesia IA también tiene algunas desventajas, entre las que se incluyen:
+Puede ser más caro, ya que los usuarios deben pagar una suscripción para acceder a todas las funciones.
+No es tan realista como tocar el piano en un piano real.
+Otros datos
+Synthesia IA fue lanzado en 2023.
+Está desarrollado por un equipo de desarrolladores de software en Suecia.
+Está disponible en inglés, español, francés, alemán, italiano y japonés.
+Conclusión
+Synthesia IA es una herramienta eficaz para aprender a tocar el piano. Es un método más divertido y accesible que puede adaptarse a las necesidades individuales del usuario.
